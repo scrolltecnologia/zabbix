@@ -1,4 +1,4 @@
-# Zabbix - Templates Switch Lenov
+# Zabbix - Templates Switch Lenovo
 
 Lenovo CNOS
 
